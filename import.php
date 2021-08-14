@@ -19,12 +19,12 @@ class WPCoupon_Demo_Import {
 
     function __construct( ){
 
-        $this->demo_args = array(
-            'page_on_front' => 194,
-            'page_for_posts' => 21,
+          $this->demo_args = array(
+            'page_on_front' => 166,
+            'page_for_posts' => 205,
             'nav'=> array(
-                'primary' => 5,
-                'footer' => 22
+                'primary' => 58,
+                'footer' => 59
             ),
             'options' => array(
                 'coupons_listing_page' => 'post',
